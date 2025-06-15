@@ -1,3 +1,27 @@
+# Auth UI ✍️
+
+A simple yet elegant registration form built with React.
+
+This form features glow effects, minimal design, and basic input validation (client-side).
+
+## 🎯 Features
+- Registration form with name, email, password
+- Gradient highlight and glow shadow
+- Switch link to Login
+- Fully responsive design
+
+## 🧰 Tech Stack
+- React
+- CSS3
+- JSX
+
+## 🚀 Quick Start
+
+--bash
+npm install
+npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
